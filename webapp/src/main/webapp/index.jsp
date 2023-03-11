@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Welocme... Cnu... Kola..... </h1>
+   <h1> Welocme.CICD Job......... </h1>
 
   
 </form>
